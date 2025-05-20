@@ -4,7 +4,7 @@ export function Footer() {
             <div className="container mx-auto px-4 flex justify-between items-center text-sm">
                 <span>© {new Date().getFullYear()}</span>
                 <a
-                    href="#!"
+                    href="https://github.com/liza-savelyeva/recipes"
                     className="text-gray-200 hover:text-white transition-colors duration-200"
                     >
                         Repository
